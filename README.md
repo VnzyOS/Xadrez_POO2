@@ -1,2 +1,2 @@
-# projeto-teste
-tutorial
+# Xadrez_python
+POO2
